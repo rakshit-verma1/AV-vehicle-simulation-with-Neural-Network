@@ -1,0 +1,20 @@
+# Environment files
+.env
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# GitHub config (workflows, templates, etc.)
+.github/
